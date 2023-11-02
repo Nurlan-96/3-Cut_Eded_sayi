@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\bin\Debug\net6.0\Arrayde_cut_ededler.exe
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\bin\Debug\net6.0\Arrayde_cut_ededler.deps.json
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\bin\Debug\net6.0\Arrayde_cut_ededler.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\bin\Debug\net6.0\Arrayde_cut_ededler.dll
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\bin\Debug\net6.0\Arrayde_cut_ededler.pdb
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.dll
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\refint\Arrayde_cut_ededler.dll
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.pdb
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\Arrayde_cut_ededler.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\Arrayde_cut_ededler\Arrayde_cut_ededler\obj\Debug\net6.0\ref\Arrayde_cut_ededler.dll
